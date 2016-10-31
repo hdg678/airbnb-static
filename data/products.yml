@@ -1,4 +1,14 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+paris:
+  name: Seb
+  image: seb.jpg
+  background-img:
+  url:
+
+london:
+ name: Anne
+  image: anne.jpg
+  background-img:
+brussels:
+  name: Romain
+  image: romain.jpeg
+  background-img:
